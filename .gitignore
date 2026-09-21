@@ -208,3 +208,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+data/
+my_data/
+mlartifacts/
+mlflow.db
+notebooks/*-Copy*.ipynb
